@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "this is going to be my first attempt on the road of being a blogger or not something that ambitious just a simple blog of my own",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "saman-taghavi",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.14"
+  }
+}
